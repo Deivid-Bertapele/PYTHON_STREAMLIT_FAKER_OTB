@@ -32,6 +32,7 @@ Execute o painel Streamlit:
 
 
 📊 Exemplo de Saída
+
 Resumo Geral:
 - Vendas Totais
 - Estoque Atual
