@@ -17,7 +17,7 @@ Fórmula do OTB:
 
 🛠️ Requisitos
 Certifique-se de ter as seguintes bibliotecas instaladas:
-- pip install streamlit Faker pandas
+- pip install -r requirements.txt
 
   
 🚀 Como Executar o Projeto
