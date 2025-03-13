@@ -23,7 +23,7 @@ Certifique-se de ter as seguintes bibliotecas instaladas:
 🚀 Como Executar o Projeto
 Clone este repositório:
 
-- git clone 
+- git clone https://github.com/Deivid-Bertapele/PYTHON_STREAMLIT_FAKER_OTB.git
 - cd seu-repositorio
 
   
