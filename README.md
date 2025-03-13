@@ -13,7 +13,7 @@ Este projeto implementa um painel interativo utilizando Streamlit, Faker e Panda
 OTB é uma métrica utilizada no varejo para controlar o orçamento disponível para compras futuras. Ele é calculado com base no estoque atual, estoque desejado e vendas realizadas.
 
 Fórmula do OTB:
-OTB = (Vendas + Estoque Desejado) - Estoque Atual
+- OTB = (Vendas + Estoque Desejado) - Estoque Atual
 
 🛠️ Requisitos
 Certifique-se de ter as seguintes bibliotecas instaladas:
