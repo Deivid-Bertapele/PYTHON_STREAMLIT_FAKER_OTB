@@ -28,7 +28,7 @@ Clone este repositório:
 
   
 Execute o painel Streamlit:
-- streamlit run otb_dashboard.py
+- streamlit run app.py
 
 
 📊 Exemplo de Saída
